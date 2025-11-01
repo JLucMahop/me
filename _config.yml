@@ -4,7 +4,7 @@
 
 title: luc-mahop # the website title (if blank, full name will be used instead)
 first_name: Luc
-middle_name:  # optional middle name
+middle_name: # optional middle name
 last_name: MAHOP
 contact_note: >
   I daily check my mails.
@@ -122,11 +122,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 #external_sources:
-  #- name: medium.com
-   # rss_url: https://medium.com/@al-folio/feed
-  #- name: Google Blog
- #   posts:
-  #    - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#- name: medium.com
+# rss_url: https://medium.com/@al-folio/feed
+#- name: Google Blog
+#   posts:
+#    - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
 #        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
@@ -255,7 +255,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["virtualization", "machine-learning", "cpu","computer-architecture"] # these tags will be displayed on the front page of your blog
+display_tags: ["virtualization", "machine-learning", "cpu", "computer-architecture"] # these tags will be displayed on the front page of your blog
 display_categories: ["research"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

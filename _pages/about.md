@@ -32,6 +32,3 @@ I am a Ph.D. student in Computer Science at the LIG laboratory of the University
 Currently, I am designing an innovative approach to reconcile the swapping of virtual machines with high performance and efficiency, tackling a challenge that impacts the scalability and responsiveness of modern cloud infrastructures. By bridging low-level system mechanisms with large-scale distributed architectures, my goal is to make virtualized environments faster, smarter, and more adaptable to real-world demands.
 
 Beyond my current project, I am driven by a broader vision: to contribute research that not only advances theory but also delivers tangible, impactful solutions. I aspire to become a recognized research scientist, turning ambitious ideas into technologies that shape the future of computing.
-
-
-
