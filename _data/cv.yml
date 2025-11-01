@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Luc MAHOP
     - name: Date of Birth
-      value: 14th March 1879
+      value: 3rd December 2002
     - name: Languages
-      value: English, German
+      value: English, French
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Grenoble Alpes, Grenoble, France
+      year: 2024 - now
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Computer Engineering MsC
+      institution: National Advanced School of Engineering of Yaoundé, Yaoundé, Cameroon
+      year: 2019 - 2024
       description:
         - Description 1.
         - Description 2.
@@ -71,10 +71,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
+        - Eséka High School Best Student Award
     - year: 2029
       items:
         - Max Planck Medal

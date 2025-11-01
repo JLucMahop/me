@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: mahalloc
+description: Building my own heap memory manager
 img:
 importance: 4
 category: fun

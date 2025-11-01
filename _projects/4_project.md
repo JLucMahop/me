@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: GPS Tracking system
+description: Builing an entire GPS tracking system using arduino
 img:
 importance: 3
 category: fun
