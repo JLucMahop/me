@@ -48,7 +48,8 @@ ENV EXECJS_RUNTIME=Node \
     JEKYLL_ENV=production \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US:en \
-    LC_ALL=en_US.UTF-8
+    LC_ALL=en_US.UTF-8 \
+    SASS_QUIET_DEPS=true    
 
 # create a directory for the jekyll site
 RUN mkdir /srv/jekyll
@@ -63,7 +64,9 @@ WORKDIR /srv/jekyll
 # install jekyll and dependencies
 RUN gem install --no-document jekyll bundler
 RUN bundle install --no-cache
-
+RUN apt-get update && apt-get install -y imagemagick nodejs npm \
+ && npm install -g sass-migrator \
+ && rm -rf /var/lib/apt/lists/*
 EXPOSE 8080
 
 COPY bin/entry_point.sh /tmp/entry_point.sh
