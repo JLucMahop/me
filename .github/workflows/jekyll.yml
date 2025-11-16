@@ -44,7 +44,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Install system dependencies
-        run: sudo apt-get update
+        run: | sudo apt-get update
           sudo apt-get install -y imagemagick python3-pip
           pip3 install notebook nbconvert
 
