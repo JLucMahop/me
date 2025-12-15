@@ -45,7 +45,7 @@ ninja.data = [{
         
           title: "A Technical Comparison of x86 and ARM Architectures",
         
-        description: "A detailed comparative study of x86 and ARM CPU architectures — instruction set design, microarchitecture, power-performance trade-offs, and ecosystem evolution.",
+        description: "Understanding the two dominant processor architectures - a beginner to intermediate guide covering instruction set design, microarchitecture, power efficiency, and real-world performance.",
         section: "Posts",
         handler: () => {
           
