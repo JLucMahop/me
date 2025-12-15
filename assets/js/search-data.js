@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/x86-vs-arm-architectural-analysis/";
           
         },
+      },{id: "post-the-future-of-operating-systems-current-research-frontiers-and-industry-perspectives",
+        
+          title: "The Future of Operating Systems: Current Research Frontiers and Industry Perspectives",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/future-of-os/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
