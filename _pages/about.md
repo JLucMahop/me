@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Think outside the box.
+subtitle: <i>To be a surgeon of Complex Systems</i>.
 
 profile:
   align: right

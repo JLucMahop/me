@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Luc MAHOP # the website title (if blank, full name will be used instead)
+title: Luc <b>MAHOP</b> # the website title (if blank, full name will be used instead)
 first_name: Luc
 middle_name: # optional middle name
 last_name: MAHOP
