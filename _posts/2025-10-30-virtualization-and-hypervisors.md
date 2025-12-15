@@ -5,6 +5,7 @@ date: 2025-10-30 14:00:00
 description: A beginner-friendly yet technically rigorous introduction to virtualization and hypervisor architectures, with diagrams and references.
 tags: virtualization hypervisor kvm vmware xen cloud computing systems
 categories: computer-systems
+author: Luc MAHOP
 ---
 
 Virtualization is a foundational concept in **modern computing**, allowing multiple isolated operating systems to share the same physical hardware.  

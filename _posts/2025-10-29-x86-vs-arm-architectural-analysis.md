@@ -7,6 +7,7 @@ tags: cpu architecture computer-architecture x86 arm risc cisc
 categories: research
 giscus_comments: true
 related_posts: true
+author: Luc MAHOP
 toc:
   sidebar: left
 ---

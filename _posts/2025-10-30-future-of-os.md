@@ -2,7 +2,7 @@
 layout: post
 title: "The Future of Operating Systems: Current Research Frontiers and Industry Perspectives"
 date: 2024-12-15
-author: Research Scientist in Operating Systems and Virtualization
+author: Luc MAHOP
 categories: [operating-systems, research, systems, virtualization]
 ---
 
