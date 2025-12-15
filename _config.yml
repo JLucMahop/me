@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Luc MAHOP # blog_name will be displayed in your blog page
-blog_description: A beginer friendly journey through computer science topics
+blog_description: Welcome to the operating room, let's perform some surgery. #A beginer friendly journey through computer science topics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
