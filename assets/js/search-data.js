@@ -4,20 +4,20 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "About",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "Blog",
+          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
         },{id: "nav-repositories",
-          title: "Repositories",
+          title: "repositories",
           description: "Here are some repositories of projects I worked on, keep me in touch for any information.",
           section: "Navigation",
           handler: () => {
@@ -45,11 +45,22 @@ ninja.data = [{
         
           title: "A Technical Comparison of x86 and ARM Architectures",
         
-        description: "A detailed comparative study of x86 and ARM CPU architectures — instruction set design, microarchitecture, power-performance trade-offs, and ecosystem evolution.",
+        description: "Understanding the two dominant processor architectures - a beginner to intermediate guide covering instruction set design, microarchitecture, power efficiency, and real-world performance.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/x86-vs-arm-architectural-analysis/";
+          
+        },
+      },{id: "post-the-future-of-operating-systems-current-research-frontiers-and-industry-perspectives",
+        
+          title: "The Future of Operating Systems: Current Research Frontiers and Industry Perspectives",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/future-of-os/";
           
         },
       },{id: "books-the-godfather",
@@ -65,9 +76,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-speaker-at-the-vmpsec-sparkles-smile",
           title: 'Speaker at the VMPSec :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-attempting-the-defi-os-at-inria-saclay-smile",
-          title: 'Attempting the Defi OS at INRIA Saclay :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -104,7 +112,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%63%6F%6E%74%61%63%74@%6C%75%63-%6D%61%68%6F%70.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%61%68%6F%70%6E%67%6F%73%6C%75%63@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
