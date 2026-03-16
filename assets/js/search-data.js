@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-understanding-virtualization-and-hypervisors-a-technical-introduction",
+        },{id: "post-the-future-of-operating-systems-current-research-frontiers-and-industry-perspectives",
+        
+          title: "The Future of Operating Systems: Current Research Frontiers and Industry Perspectives",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/future-of-os/";
+          
+        },
+      },{id: "post-understanding-virtualization-and-hypervisors-a-technical-introduction",
         
           title: "Understanding Virtualization and Hypervisors: A Technical Introduction",
         
@@ -50,17 +61,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/x86-vs-arm-architectural-analysis/";
-          
-        },
-      },{id: "post-the-future-of-operating-systems-current-research-frontiers-and-industry-perspectives",
-        
-          title: "The Future of Operating Systems: Current Research Frontiers and Industry Perspectives",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/future-of-os/";
           
         },
       },{id: "books-the-godfather",
