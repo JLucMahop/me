@@ -293,7 +293,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.4)
   jekyll-archives-v2
   jekyll-email-protect
   jekyll-feed
@@ -314,6 +314,7 @@ DEPENDENCIES
   jemoji
   observer
   ostruct
+  sass-embedded (~> 1.69)
 
 BUNDLED WITH
    2.6.9

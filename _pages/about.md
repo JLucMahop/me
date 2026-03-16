@@ -6,10 +6,10 @@ subtitle: <i>To be a surgeon of Complex Systems</i>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>472 IMAG Building</p>
+    <p>IMAG Building - Office 472</p>
     <p>150 Place du Torrent</p>
     <p>38400 Saint-Martin-d'Hères</p>
 
